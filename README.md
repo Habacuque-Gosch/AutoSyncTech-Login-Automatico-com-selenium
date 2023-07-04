@@ -35,6 +35,7 @@ Este projeto é uma automação que serve para fazer login automatico usando sel
 ## Ferramentas utilizadas
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%22002E20.svg?style=for-the-badge&logo=selenium&logoColor=white)
     
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
