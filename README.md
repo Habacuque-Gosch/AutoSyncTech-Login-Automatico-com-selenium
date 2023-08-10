@@ -29,7 +29,7 @@ Este projeto é uma automação que serve para fazer login automatico usando sel
  
 <div align='center'>
     <h1>Aplicação<h1>
-    <img src='./demo.gif' title='demo tela de login' width='400px' />
+    <img src='./demo.png' title='demo tela de login' width='400px' />
 </div>
             
 ## Ferramentas utilizadas
