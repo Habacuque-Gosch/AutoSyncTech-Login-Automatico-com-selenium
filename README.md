@@ -1,4 +1,4 @@
-<h1>Login Automático com selenium</h1>
+<h1>AutoSyncTech(Login Automático com selenium)</h1>
 
 <h2>Bem vindo(ao) meu repositório</h2>
 
